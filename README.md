@@ -1,4 +1,4 @@
-# Uber Clone Application
+# Rydeon Ride booking App
 
 This project is an Uber-like ride-hailing system that demonstrates real-time ride handling, geolocation tracking, and map integration using Node.js/Express on the backend and React on the frontend.
 
