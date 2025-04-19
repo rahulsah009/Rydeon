@@ -1,6 +1,6 @@
 # Rydeon Ride booking App
 
-This project is an Uber-like ride-hailing system that demonstrates real-time ride handling, geolocation tracking, and map integration using Node.js/Express on the backend and React on the frontend.
+This project is an  ride-hailing system that demonstrates real-time ride handling, geolocation tracking, and map integration using Node.js/Express on the backend and React on the frontend.
 
 ## Backend
 
@@ -77,4 +77,4 @@ This project is an Uber-like ride-hailing system that demonstrates real-time rid
 
 ## Conclusion
 
-This application serves as a comprehensive demonstration of an Uber-like ride-hailing system. It incorporates both backend and frontend technologies to manage real-time ride requests, driver tracking, and user notifications using modern web development practices.
+This application serves as a comprehensive demonstration of an  ride-hailing system. It incorporates both backend and frontend technologies to manage real-time ride requests, driver tracking, and user notifications using modern web development practices.
